@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,apple.comakadns.net
 IP-CIDR,23.197.85.52/32,no-resolve
 
 DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,ess-apple.com.akadns.net
