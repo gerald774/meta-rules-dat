@@ -3,8 +3,8 @@
 # 如果需要走国外流量的话，需要把域名加入绕过指定区域 IPv4 黑名单
 # 否则因为绕过中国大陆的设置流量不走核心导致没有不走国外流量
 
-# 富途牛牛
+# 富途牛牛打开的时候如果检测到是国内 IP 会显示不提供服务的页面
 DOMAIN,www.futunn.com
 
-# vscode 下载，从国内 cdn 下载超级慢
+# vscode 从国内 cdn 下载超级慢
 DOMAIN,vscode.download.prss.microsoft.com
